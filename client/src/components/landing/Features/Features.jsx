@@ -1,7 +1,7 @@
 
 const Features = () => {
   return (
-    <div>
+    <div className="min-h-screen bg-red-500">
       
     </div>
   )
